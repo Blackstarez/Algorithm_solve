@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\D1">
+      <UniqueIdentifier>{7db44b05-2d88-4837-88ae-1a768481c46c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SW_8458.cpp">
@@ -20,6 +23,9 @@
     </ClCompile>
     <ClCompile Include="SW_8104.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SW_2072.cpp">
+      <Filter>소스 파일\D1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
