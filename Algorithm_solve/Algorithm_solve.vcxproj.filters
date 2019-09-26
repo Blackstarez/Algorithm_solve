@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\D1">
       <UniqueIdentifier>{7db44b05-2d88-4837-88ae-1a768481c46c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\D3">
+      <UniqueIdentifier>{33487be5-8559-454c-b239-497dbbaf4484}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SW_8458.cpp">
@@ -26,6 +29,9 @@
     </ClCompile>
     <ClCompile Include="SW_2072.cpp">
       <Filter>소스 파일\D1</Filter>
+    </ClCompile>
+    <ClCompile Include="SW_1217.cpp">
+      <Filter>소스 파일\D3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
