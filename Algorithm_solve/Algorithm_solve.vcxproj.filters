@@ -45,5 +45,8 @@
     <ClCompile Include="SW_8658.cpp">
       <Filter>소스 파일\D3~6</Filter>
     </ClCompile>
+    <ClCompile Include="SW_8821.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
