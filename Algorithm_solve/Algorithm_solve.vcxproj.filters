@@ -42,8 +42,8 @@
     <ClCompile Include="SW_7466.cpp">
       <Filter>소스 파일\D3~6</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="SW_8658.cpp">
+      <Filter>소스 파일\D3~6</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
